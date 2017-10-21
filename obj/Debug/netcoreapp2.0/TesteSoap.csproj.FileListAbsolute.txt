@@ -1,0 +1,10 @@
+a:\Projetos\TesteSoap\bin\Debug\netcoreapp2.0\TesteSoap.deps.json
+a:\Projetos\TesteSoap\bin\Debug\netcoreapp2.0\TesteSoap.runtimeconfig.json
+a:\Projetos\TesteSoap\bin\Debug\netcoreapp2.0\TesteSoap.runtimeconfig.dev.json
+a:\Projetos\TesteSoap\bin\Debug\netcoreapp2.0\TesteSoap.dll
+a:\Projetos\TesteSoap\bin\Debug\netcoreapp2.0\TesteSoap.pdb
+a:\Projetos\TesteSoap\obj\Debug\netcoreapp2.0\TesteSoap.csproj.CoreCompileInputs.cache
+a:\Projetos\TesteSoap\obj\Debug\netcoreapp2.0\TesteSoap.AssemblyInfoInputs.cache
+a:\Projetos\TesteSoap\obj\Debug\netcoreapp2.0\TesteSoap.AssemblyInfo.cs
+a:\Projetos\TesteSoap\obj\Debug\netcoreapp2.0\TesteSoap.dll
+a:\Projetos\TesteSoap\obj\Debug\netcoreapp2.0\TesteSoap.pdb
